@@ -1,0 +1,7 @@
+# Environment
+.env
+
+
+# Folder data
+db_data/
+nextcloud_data/
